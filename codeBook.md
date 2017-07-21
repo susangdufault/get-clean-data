@@ -24,7 +24,8 @@ Experimental Design
 
 Variable Descriptions				
 				
--subject is an integer class variable ranging from 1 to 30 that identifies the study participant	
+-subject is an integer class variable ranging from 1 to 30 that identifies the study participant
+
 -activity is a character class variable that identifies the activity the participant was engaged in when the measurement
 was taken, as follows: walking, walking upstairs, walking downstairs, sitting, standing, laying
 
@@ -43,64 +44,125 @@ frequencyofbodyaccelerationjerkstandarddeviationofyaxis - Frequency domain of bo
 frequencyofbodyaccelerationjerkstanddarddeviationofzaxis - Frequency domain of body acceleration jerk signal, standard deviation of z-axis values
 
 frequencyofbodyaccelerationmagnitudemean - Frequency domain of body acceleration magnitude, mean value	
+
 frequencyofbodyaccelerationmagnitudestandarddeviation - Frequency domain of body acceleration magnitude, standard deviation	
+
 frequencyofbodyaccelerationmeanofxaxis - Frequency domain of body acceleration, mean of the x-axis values	
+
 frequencyofbodyaccelerationmeanofyaxis - Frequency domain of body acceleration, mean of the y-axis values
+
 frequencyofbodyaccelerationmeanofzaxis - Frequency domain of body acceleration, mean of the z-axis values
+
 frequencyofbodyaccelerationstandarddeviationofxaxis - Frequency domain of body acceleration, standard deviation of the x-axis values
-frequencyofbodyaccelerationstandarddeviationofyaxis - Frequency domain of body acceleration, standard deviation of the y-axis values	
-frequencyofbodyaccelerationstanddarddeviationofzaxis - Frequency domain of body acceleration, standard deviation of the z-axis values	
+
+frequencyofbodyaccelerationstandarddeviationofyaxis - Frequency domain of body acceleration, standard deviation of the y-axis values
+
+frequencyofbodyaccelerationstanddarddeviationofzaxis - Frequency domain of body acceleration, standard deviation of the z-axis values
+
 frequencyofbodybodyaccelerationjerkmagnitudemean - Frequency domain of body acceleration jerk signal magnitude, mean value	
+
 frequencyofbodybodyaccelerationjerkmagnitudestandarddeviation - Frequency domain of body acceleration jerk signal magnitude, standard deviation	
+
 frequencyofbodybodyvelocityjerkmagnitudemean - Frequency domain of body velocity jerk signal magnitude, mean value	
+
 frequencyofbodybodyvelocityjerkmagnitudestandarddeviation - Frequency domain of body velocity jerk signal magnitude, standard deviation	
-frequencyofbodybodyvelocitymagnitudemeanm - Frequency domain of body velocity magnitude, mean value	
+
+frequencyofbodybodyvelocitymagnitudemeanm - Frequency domain of body velocity magnitude, mean value
+
 frequencyofbodybodyvelocitymagnitudestandarddeviation - Frequency domain of body velocity magnitude, standard deviation
-frequencyofbodyvelocitymeanofxaxis - Frequency domain of body angular velocity, mean of the x-axis values	
-frequencyofbodyvelocitymeanofyaxis - Frequency domain of body angular velocity, mean of the y-axis values	
-frequencyofbodyvelocitymeanofzaxis - Frequency domain of body angular velocity, mean of the z-axis values	
-frequencyofbodyvelocitystandarddeviationofxaxis - Frequency domain of body angular velocity, standard deviation of the x-axis values	
+
+frequencyofbodyvelocitymeanofxaxis - Frequency domain of body angular velocity, mean of the x-axis values
+
+frequencyofbodyvelocitymeanofyaxis - Frequency domain of body angular velocity, mean of the y-axis values
+
+frequencyofbodyvelocitymeanofzaxis - Frequency domain of body angular velocity, mean of the z-axis values
+
+frequencyofbodyvelocitystandarddeviationofxaxis - Frequency domain of body angular velocity, standard deviation of the x-axis values
+
 frequencyofbodyvelocitystandarddeviationofyaxis - Frequency domain of body angular velocity, standard deviation of the y-axis values	
-frequencyofbodyvelocitystanddarddeviationofzaxis - Frequency domain of body angular velocity, standard deviation of the z-axis values	
+
+frequencyofbodyvelocitystanddarddeviationofzaxis - Frequency domain of body angular velocity, standard deviation of the z-axis values
+
 timeofbodyaccelerationjerkmagnitudemean - Time domain of body acceleration jerk magnitude, mean value	
+
 timeofbodyaccelerationjerkmagnitudestandarddeviation - Time domain of body acceleration jerk magnitude, standard deviation	
+
 timeofbodyaccelerationjerkmeanofxaxis - Time domain of body acceleration jerk signal, mean of the x-axis values	
+
 timeofbodyaccelerationjerkmeanofyaxis - Time domain of body acceleration jerk signal, mean of the y-axis values	
+
 timeofbodyaccelerationjerkmeanofzaxis - Time domain of body acceleration jerk signal, mean of the z-axis values	
+
 timeofbodyaccelerationjerkstandarddeviationofxaxis - Time domain of body acceleration jerk signal, standard deviation of the x-axis values	
+
 timeofbodyaccelerationjerkstandarddeviationofyaxis - Time domain of body acceleration jerk signal, standard deviation of the y-axis values	
+
 timeofbodyaccelerationjerkstanddarddeviationofzaxis - Time domain of body acceleration jerk signal, standard deviation of the z-axis values	
+
 timeofbodyaccelerationmagnitudemean - Time domain of body acceleration magnitude, mean value	
+
 timeofbodyaccelerationmagnitudestandarddeviation - Time domain of body acceleration magnitude, standard deviation	
+
 timeofbodyaccelerationmeanofxaxis - Time domain of body acceleration, mean of the x-axis values	
+
 timeofbodyaccelerationmeanofyaxis  - Time domain of body acceleration, mean of the y-axis values	
+
 timeofbodyaccelerationmeanofzaxis - Time domain of body acceleration, mean of the z-axis values	
+
 timeofbodyaccelerationstandarddeviationofxaxis - Time domain of body acceleration, standard deviation of the x-axis values	
+
 timeofbodyaccelerationstandarddeviationofyaxis - Time domain of body acceleration, standard deviation of the y-axis values	
+
 timeofbodyaccelerationstanddarddeviationofzaxis - Time domain of body acceleration, standard deviation of the z-axis values	
+
 timeofbodyvelocityjerkmagnitudemean - Time domain of body angular velocity jerk signal magnitude, mean value	
-timeofbodyvelocityjerkmagnitudestandarddeviation - Time domain of body angular velocity jerk signal magnitude, standard deviation	
+
+timeofbodyvelocityjerkmagnitudestandarddeviation - Time domain of body angular velocity jerk signal magnitude, standard deviation
+
 timeofbodyvelocityjerkmeanofxaxis - Time domain of body angular velocity jerk signal, mean of the x-axis values	
+
 timeofbodyvelocityjerkmeanofyaxis - Time domain of body angular velocity jerk signal, mean of the y-axis values	
+
 timeofbodyvelocityjerkmeanofzaxis - Time domain of body angular velocity jerk signal, mean of the z-axis values	
+
 timeofbodyvelocityjerkstandarddeviationofxaxis - Time domain of body angular velocity jerk signal, standard deviation of the x-axis values	
+
 timeofbodyvelocityjerkstandarddeviationofyaxis - Time domain of body angular velocity jerk signal, standard deviation of the y-axis values	
+
 timeofbodyvelocityjerkstanddarddeviationofzaxis - Time domain of body angular velocity jerk signal, standard deviation of the z-axis values	
+
 timeofbodyvelocitymagnitudemean - Time domain of body angular velocity magnitude, mean value	
-timeofbodyvelocitymagnitudestandarddeviation - Time domain of body angular velocity magnitude, standard deviation	
+
+timeofbodyvelocitymagnitudestandarddeviation - Time domain of body angular velocity magnitude, standard deviation
+
 timeofbodyvelocitymeanofxaxis - Time domain of body angular velocity, mean of the x-axis values	
+
 timeofbodyvelocitymeanofyaxis - Time domain of body angular velocity, mean of the y-axis values	
+
 timeofbodyvelocitymeanofzaxis - Time domain of body angular velocity, mean of the z-axis values	
+
 timeofbodyvelocitystandarddeviationofxaxis - Time domain of body angular velocity, standard deviation of the x-axis values	
+
 timeofbodyvelocitystandarddeviationofyaxis - Time domain of body angular velocity, standard deviation of the y-axis values	
+
 timeofbodyvelocitystanddarddeviationofzaxis - Time domain of body angular velocity, standard deviation of the z-axis values	
+
 timeofgravityaccelerationmagnitudemean - Time domain of acceleration due to gravity magnitude, mean value	
+
 timeofgravityaccelerationmagnitudestandarddeviation - Time domain of acceleration due to gravity magnitude, standard deviation	
+
 timeofgravityaccelerationmeanofxaxis - Time domain of acceleration due to gravity, mean of the x-axis values 	
+
 timeofgravityaccelerationmeanofyaxis - Time domain of acceleration due to gravity, mean of the y-axis values 	
+
 timeofgravityaccelerationmeanofzaxis - Time domain of acceleration due to gravity, mean of the z-axis values 	
-timeofgravityaccelerationstandarddeviationofxaxis - Time domain of acceleration due to gravity, standard deviation of the x-axis values timeofgravityaccelerationstandarddeviationofyaxis - Time domain of acceleration due to gravity, standard deviation of the y-axis values 
+
+timeofgravityaccelerationstandarddeviationofxaxis - Time domain of acceleration due to gravity, standard deviation of the x-axis values
+
+timeofgravityaccelerationstandarddeviationofyaxis - Time domain of acceleration due to gravity, standard deviation of the y-axis values
+
 timeofgravityaccelerationstanddarddeviationofzaxis - Time domain of acceleration due to gravity, standard deviation of the z-axis values
+
 
 The dataset in the file "averagedata.txt" contains averages by study participant and by activity for the 66 variables extracted.
 This file can be created by running the R code in the file "run_analysis.R"			
