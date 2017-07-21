@@ -1,9 +1,9 @@
-<h4>CODE BOOK FOR COURSERA GETTING AND CLEANING DATA FINAL ASSIGNMENT				
+<h4>CODE BOOK FOR COURSERA GETTING AND CLEANING DATA FINAL ASSIGNMENT</h4>			
 				
 This code book describes the tidy dataset in the "averagedata.txt" file created by running the R code
 in the "run_analysis.R" file. For more information see the README.md file.
 				
-<h4>Data Processing for this Assignment
+<h4>Data Processing for this Assignment</h4>
 
 -The data were dowloaded from
 	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip				
@@ -14,7 +14,7 @@ in the "run_analysis.R" file. For more information see the README.md file.
 
 -The average values for these variables by study participant and by activity class were calculated	
 				
-<h4>Experimental Design
+<h4>Experimental Design</h4>
 
 -Data were collected using the internal accelerometer and gyroscope of a Samsung Galaxy S II smartphone
 
@@ -33,7 +33,7 @@ in the "run_analysis.R" file. For more information see the README.md file.
 -Additional information is available here
 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones						
 
-<h4>Variable Descriptions				
+<h4>Variable Descriptions</h4>				
 				
 -subject is an integer class variable ranging from 1 to 30 that identifies the study participant
 
