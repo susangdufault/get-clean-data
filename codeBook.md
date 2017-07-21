@@ -1,28 +1,39 @@
-CODE BOOK FOR COURSERA GETTING AND CLEANING DATA FINAL ASSIGNMENT				
+<h4>CODE BOOK FOR COURSERA GETTING AND CLEANING DATA FINAL ASSIGNMENT				
 				
 This code book describes the tidy dataset in the "averagedata.txt" file created by running the R code
 in the "run_analysis.R" file. For more information see the README.md file.
 				
-Data Processing for this Assignment				
+<h4>Data Processing for this Assignment
+
 -The data were dowloaded from
 	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip				
 
--Test and training datasets were merged				
--Variables for which both mean and standard deviation were provided were extracted		
+-Test and training datasets were merged
+
+-Variables for which both mean and standard deviation were provided were extracted
+
 -The average values for these variables by study participant and by activity class were calculated	
 				
-Experimental Design				
+<h4>Experimental Design
+
 -Data were collected using the internal accelerometer and gyroscope of a Samsung Galaxy S II smartphone
+
 -Thirty participants aged 19-48 wore the smartphones around their waists while performing six different activities
--The signals were captured at a constant rate of 50 Hz and filtered to remove noise				
--Body acceleration and acceleration due to gravity were extracted from the total acceleration signal			
--Acceleration was recorded in standard gravity units, g				
+
+-The signals were captured at a constant rate of 50 Hz and filtered to remove noise
+
+-Body acceleration and acceleration due to gravity were extracted from the total acceleration signal
+
+-Acceleration was recorded in standard gravity units, g
+
 -Angular velocity was recorded in units of radians/second
+
 -Variables were normalized within the range of -1 to 1
+
 -Additional information is available here
 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones						
 
-Variable Descriptions				
+<h4>Variable Descriptions				
 				
 -subject is an integer class variable ranging from 1 to 30 that identifies the study participant
 
