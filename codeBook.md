@@ -4,22 +4,22 @@ This code book describes the tidy dataset in the "averagedata.txt" file created 
 in the "run_analysis.R" file. For more information see the README.md file.
 				
 Data Processing for this Assignment				
-*The data were dowloaded from
+-The data were dowloaded from
 	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip				
 
-*Test and training datasets were merged				
-*Variables for which both mean and standard deviation were provided were extracted		
-*The average values for these variables by study participant and by activity class were calculated	
+-Test and training datasets were merged				
+-Variables for which both mean and standard deviation were provided were extracted		
+-The average values for these variables by study participant and by activity class were calculated	
 				
 Experimental Design				
-*Data were collected using the internal accelerometer and gyroscope of a Samsung Galaxy S II smartphone
-*Thirty participants aged 19-48 wore the smartphones around their waists while performing six different activities
-*The signals were captured at a constant rate of 50 Hz and filtered to remove noise				
-*Body acceleration and acceleration due to gravity were extracted from the total acceleration signal			
-*Acceleration was recorded in standard gravity units, g				
-*Angular velocity was recorded in units of radians/second
-*Variables were normalized within the range of -1 to 1
-*Additional information is available here
+-Data were collected using the internal accelerometer and gyroscope of a Samsung Galaxy S II smartphone
+-Thirty participants aged 19-48 wore the smartphones around their waists while performing six different activities
+-The signals were captured at a constant rate of 50 Hz and filtered to remove noise				
+-Body acceleration and acceleration due to gravity were extracted from the total acceleration signal			
+-Acceleration was recorded in standard gravity units, g				
+-Angular velocity was recorded in units of radians/second
+-Variables were normalized within the range of -1 to 1
+-Additional information is available here
 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones						
 
 Variable Descriptions				
@@ -31,11 +31,17 @@ was taken, as follows: walking, walking upstairs, walking downstairs, sitting, s
 The 66 measurement variables are of numeric class and normalized within the range of -1 to 1. These are defined as follows:
 				
 frequencyofbodyaccelerationjerkmeanofxaxis - Frequency domain of body acceleration jerk signal, mean of x-axis values
+
 frequencyofbodyaccelerationjerkmeanofyaxis - Frequency domain of body acceleration jerk signal, mean of y-axis values
+
 frequencyofbodyaccelerationjerkmeanofzaxis - Frequency domain of body acceleration jerk signal, mean of z-axis values
+
 frequencyofbodyaccelerationjerkstandarddeviationofxaxis - Frequency domain of body acceleration jerk signal, standard deviation of x-axis values
+
 frequencyofbodyaccelerationjerkstandarddeviationofyaxis - Frequency domain of body acceleration jerk signal, standard deviation of y-axis values
+
 frequencyofbodyaccelerationjerkstanddarddeviationofzaxis - Frequency domain of body acceleration jerk signal, standard deviation of z-axis values
+
 frequencyofbodyaccelerationmagnitudemean - Frequency domain of body acceleration magnitude, mean value	
 frequencyofbodyaccelerationmagnitudestandarddeviation - Frequency domain of body acceleration magnitude, standard deviation	
 frequencyofbodyaccelerationmeanofxaxis - Frequency domain of body acceleration, mean of the x-axis values	
