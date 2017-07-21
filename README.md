@@ -1,4 +1,4 @@
-The Github repository https://github.com/susangdufault/get-clean-data forms part of my final assignment submission for the Coursera course Getting and Cleaning Data.
+This Github repository forms part of my final assignment submission for the Coursera course Getting and Cleaning Data.
 
 Data files for this assignment were downladed from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
